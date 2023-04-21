@@ -14,7 +14,7 @@
     width: 100%;
     background-color: rgba(35, 35, 37, 0.85);
     bottom: 0;
-    box-shadow: 0 0 10px purple;
+    box-shadow: 0 0 10px rgb(82, 39, 146);
     position: absolute;
     font-family: Arial, Helvetica, sans-serif;
     display: grid;
@@ -81,7 +81,7 @@
 }
 
 .charger .fill{
-    background-color: purple;
+    background-color: rgb(82, 39, 146);
     width: 0;
     height: 98%;
     border-radius: 10px;
